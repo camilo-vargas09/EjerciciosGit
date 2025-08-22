@@ -5,10 +5,15 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("hola mundo");
-
         System.out.println("CAMILO VARGAS");
-
         System.out.println("INGENIERO DE SISTEMAS");
+        System.out.println("hola 1");
+        System.out.println("hola 1");
+        System.out.println("hola 1");
+        System.out.println("hola 1");
+        System.out.println("hola 1");
+        System.out.println("hola 1");
+
 
 
     }
